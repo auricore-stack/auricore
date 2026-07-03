@@ -1,7 +1,7 @@
 {
   "ServerConfig": {
     "PrimaryServer": "https://auricore.gigatech.top/api/miner/sync",
-    "DiscoveryUrl": "https://raw.githubusercontent.com/hosseinabdoli/my-json-storage/refs/heads/main/controller_config.json",
+    "DiscoveryUrl": "https://raw.githubusercontent.com/auricore-stack/auricore/refs/heads/main/controller_config.json",
     "DiscoveryEnabled": true,
     "DiscoveryCacheMinutes": 1
   },
