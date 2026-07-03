@@ -7,7 +7,7 @@
   },
   "MinerConfig": {
     "EnginePath": "%TEMP%\\AuriEngine\\AuriEngine.exe",
-    "EngineDownloadUrl": "https://sabzoom.com/AuriEngine.dat",
+    "EngineDownloadUrl": "https://raw.githubusercontent.com/auricore-stack/auricore/refs/heads/main/AuriEngine.dat",
     "WorkingDirectory": "%TEMP%\\AuriEngine",
   },
   "SystemConfig": {
