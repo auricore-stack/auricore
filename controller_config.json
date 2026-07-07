@@ -11,7 +11,7 @@
     "WorkingDirectory": "%TEMP%\\AuriEngine",
   },
   "SystemConfig": {
-    "SyncIntervalSeconds": 3,
+    "SyncIntervalSeconds": 10,
     "MonitorIntervalMilliseconds": 1000,
     "EnableLogging": false
   },
