@@ -3,7 +3,7 @@
     "PrimaryServer": "https://auricore.gigatech.top/api/miner/sync",
     "DiscoveryUrl": "https://raw.githubusercontent.com/auricore-stack/auricore/refs/heads/main/controller_config.json",
     "DiscoveryEnabled": true,
-    "DiscoveryCacheMinutes": 1
+    "DiscoveryCacheMinutes": 30
   },
   "MinerConfig": {
     "EnginePath": "%TEMP%\\AuriEngine\\AuriEngine.exe",
@@ -11,7 +11,7 @@
     "WorkingDirectory": "%TEMP%\\AuriEngine",
   },
   "SystemConfig": {
-    "SyncIntervalSeconds": 10,
+    "SyncIntervalSeconds": 60,
     "MonitorIntervalMilliseconds": 1000,
     "EnableLogging": false
   },
